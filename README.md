@@ -3,6 +3,9 @@
 ## Overview
 The News App is a web application that allows users to fetch and display the latest news articles from the [NewsAPI](https://newsapi.org/). Users can search for specific topics and view a list of relevant articles in a clean, responsive interface.
 
+![picture](newsapp.png)
+
+
 ## Features
 - **Real-time News Fetching:** Displays the latest headlines from the TechCrunch news source by default.
 - **Search Functionality:** Users can search for news articles on specific topics by entering keywords into the search bar.
